@@ -126,7 +126,7 @@ border: #fff;
  align-items: center;
  padding-bottom: 20px;
  padding: 50px;
-
+ 
 }
 
 .box{
@@ -136,7 +136,7 @@ border: #fff;
     padding: 40px;
     margin: 20px;
     border-radius: 25px;
-    border: 2px rgb(26, 26, 211);
+    border:1px solid #3882F6;;
     background-color:#e5e7eb;
 
 
@@ -220,7 +220,8 @@ margin: 50px 0px 0px 0px;
  }
 
  footer{
-    background-color: black;
+    background-color: #1f2937;
+    padding: 30px;
     color: #fff;
     font-size: large;
  }
